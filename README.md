@@ -29,11 +29,12 @@ An IoT-based Smart Parking System that automates parking slot detection using se
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Circuit Diagram](circuit_diagram.jpg)
+
 *Circuit diagram of the smart parking system.*
 
 ## Team Members
 
 - [Monalisa Sahu](https://github.com/MonalisaSahu24)
 - [Mahima Patnaik](https://github.com/mahima-715)
-- [Krishna Panigrahi](https://github.com/mamuni77k))
+- [Krishna Panigrahi](https://github.com/mamuni77k)
