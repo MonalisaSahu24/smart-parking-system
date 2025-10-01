@@ -65,7 +65,7 @@ An **IoT-based Smart Parking System** that automates parking slot detection usin
 
 - **circuit_diagram.jpg** – Circuit diagram of the smart parking system
 
-- **src/** – Source code for microcontrollers and software
+- **smart_parking_system.ino** – Source code for microcontrollers and software
 
 - **README.md** – Project documentation
 
