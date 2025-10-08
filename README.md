@@ -4,6 +4,21 @@ An **IoT-based Smart Parking System** that automates parking slot detection usin
 
 ---
 
+## 📌 Features
+
+- Real-time parking slot monitoring  
+- Automatic gate control  
+- User-friendly display of parking availability  
+- Reduces traffic congestion  
+
+---
+
+## 🧭 Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.jpg)  
+*Circuit diagram of the smart parking system.*
+
+---
 ## 🔧 Hardware Setup
 
 ![Hardware Top View](images/hardware_top.jpg)  
@@ -30,32 +45,7 @@ An **IoT-based Smart Parking System** that automates parking slot detection usin
 
 ---
 
-## 🔌 Circuit Diagram
-
-![Circuit Diagram](circuit_diagram.jpg)  
-*Circuit diagram of the smart parking system.*
-
----
-
-## 👥 Team Members
-
-This project was developed by:
-- [Monalisa Sahu](https://github.com/MonalisaSahu24)  
-- [Mahima Patnaik](https://github.com/mahima-715)  
-- [Krishna Panigrahi](https://github.com/mamuni77k)  
-
----
-
-## 📌 Features
-
-- Real-time parking slot monitoring  
-- Automatic gate control  
-- User-friendly display of parking availability  
-- Reduces traffic congestion  
-
----
-
-## 📂 Repository Structure
+## 🗂️ Repository Structure
 
 - **images/** – Hardware images and slot displays  
   - `hardware_top.jpg` – Top view of the hardware  
@@ -79,7 +69,7 @@ This project was developed by:
 
 ---
 
-## 💾 How to Download & Use
+## ⚙️ Setup & Usage
 
 Follow these steps to download and run the Smart Parking System on your Arduino:
 
@@ -107,6 +97,15 @@ Follow these steps to download and run the Smart Parking System on your Arduino:
    - Monitor real-time parking slot availability and gate control using the display.  
 
 > ⚠️ Make sure all sensors and wiring connections match the circuit diagram to avoid malfunctions.
+
+---
+
+## 👥 Team Members
+
+This project was developed by:
+- [Monalisa Sahu](https://github.com/MonalisaSahu24)  
+- [Mahima Patnaik](https://github.com/mahima-715)  
+- [Krishna Panigrahi](https://github.com/mamuni77k)  
 
 ---
 
